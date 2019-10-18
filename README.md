@@ -7,7 +7,7 @@
 git clone git@github.com:ChenRuiWang/blog.git
 ```
 
-### 2. Install hexo-cli
+### 2. Installation hexo-cli
 ```bash
 npm install hexo-cli -g
 ```
